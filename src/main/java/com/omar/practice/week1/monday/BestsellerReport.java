@@ -1,13 +1,10 @@
-package com.omar.practice.week1;
+package com.omar.practice.week1.monday;
 
 import com.omar.practice.model.Book;
 import com.omar.practice.model.Order;
-import com.omar.practice.model.OrderLine;
 import com.omar.practice.model.OrderStatus;
 
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class BestsellerReport {
     /** Copies sold per ISBN. Count only orders that are PAID, SHIPPED or
