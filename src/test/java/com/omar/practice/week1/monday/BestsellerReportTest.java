@@ -1,4 +1,4 @@
-package com.omar.practice.week1;
+package com.omar.practice.week1.monday;
 
 import org.junit.jupiter.api.Test;
 
